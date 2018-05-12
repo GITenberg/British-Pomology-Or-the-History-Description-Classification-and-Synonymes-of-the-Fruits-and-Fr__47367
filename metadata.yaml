@@ -1,4 +1,8 @@
 _repo: British-Pomology-Or-the-History-Description-Classification-and-Synonymes-of-the-Fruits-and-Fr__47367
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47367-h/images/cover.jpg
 creator:
   author:
     agent_name: Hogg, Robert
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44282
     wikipedia: http://en.wikipedia.org/wiki/Robert_Hogg_%28biologist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47367#British-Pomology-Or-the-History-Description-Classification-and-Synonymes-of-the-Fruits-and-Fr_
 gutenberg_issued: '2014-11-16'
 gutenberg_type: Text
 identifiers:
